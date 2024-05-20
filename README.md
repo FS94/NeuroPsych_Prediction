@@ -6,6 +6,6 @@ This is both practice on how to apply machine learning techniques to neuropsycho
 
 The models tested are shown in the image below. The final model is a Support Vector Machine.
 
-![]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/FS94/NeuroPsych_Prediction/blob/main/output.png?raw=true))
+![](https://github.com/FS94/NeuroPsych_Prediction/blob/main/output.png?raw=true)
 
 - Tosi, G., Borsani, C., Castiglioni, S., Daini, R., Franceschi, M., & Romano, D. (2020). Complexity in neuropsychological assessments of cognitive impairment: A network analysis approach. Cortex, 124, 85–96. https://doi.org/10.1016/j.cortex.2019.11.004
